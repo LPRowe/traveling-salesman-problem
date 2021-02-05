@@ -1,2 +1,2 @@
-# traveling-salesman-problem
-Exploring the TSP through gradual modification of heuristic algorithms.
+# miscellaneous
+A home for miscellaneous practice projects and code snippets.
